@@ -1,6 +1,6 @@
 # IT150--Mini-Project
 ### Attendance App.
-This is a Native Java Android App that offers Attendance Services.
+This is a Native Android App built using JAVA that offers Attendance Services.
 
 ## Features
 
